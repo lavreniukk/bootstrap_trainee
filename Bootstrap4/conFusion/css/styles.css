@@ -45,3 +45,12 @@ body {
 .breadcrumb-item a {
     color: floralwhite; 
 }
+
+.tab-content {
+    border-left: 1px solid;
+    border-right: 1px solid;
+    border-bottom: 1px solid;
+    border-color: #dee2e6;
+    border-radius: 0% 0% 20% 20%;
+    padding: 10px 0 10px 10px;
+}
