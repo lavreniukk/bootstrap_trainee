@@ -86,3 +86,27 @@ body
     position: absolute;
     bottom: 0;
 }
+
+.modal
+{
+    .modal-content
+    {
+        border: 0;
+    }
+    .modal-header
+    {
+        background: $background-dark;
+        color: floralwhite;
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;
+        
+        button
+        {
+            color: floralwhite;
+        }
+    }
+    .modal-body
+    {
+        background: $background-pale;
+    }
+}
